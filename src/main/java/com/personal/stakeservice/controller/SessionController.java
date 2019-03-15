@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.personal.controller.stakeservice.annotations.RequestMapping;
+import com.personal.stakeservice.controller.annotations.RequestMapping;
 import com.personal.stakeservice.model.Session;
 import com.personal.stakeservice.server.HttpStatus;
 import com.personal.stakeservice.service.SessionService;

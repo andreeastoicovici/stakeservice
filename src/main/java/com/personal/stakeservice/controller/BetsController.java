@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.personal.controller.stakeservice.annotations.RequestMapping;
+import com.personal.stakeservice.controller.annotations.RequestMapping;
 import com.personal.stakeservice.server.HttpStatus;
 import com.personal.stakeservice.service.BetService;
 import com.personal.stakeservice.service.SessionService;

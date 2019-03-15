@@ -1,4 +1,4 @@
-package com.personal.controller.stakeservice.annotations;
+package com.personal.stakeservice.controller.annotations;
 
 import static java.lang.annotation.ElementType.METHOD;
 

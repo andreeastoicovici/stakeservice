@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.personal.controller.stakeservice.annotations.RequestMapping;
+import com.personal.stakeservice.controller.annotations.RequestMapping;
 import com.personal.stakeservice.server.Handler;
 
 public class AnnotationsParser {
